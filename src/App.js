@@ -43,7 +43,7 @@ class App extends Component {
     }
     return (
       <div className="App">
-        <h1>Hi </h1>
+        <h1>Hi! </h1>
         <p>This is really working!</p>
         <button style={style}
           onClick={() => this.switchNameHandler('Maximum!!')}>Switch Name</button>

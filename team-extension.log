@@ -1,0 +1,292 @@
+2020-08-13T01:29:19.224Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T01:29:19.225Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T01:29:19.225Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T01:29:19.226Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T01:29:19.227Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T01:29:19.227Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T01:29:19.227Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T01:29:19.228Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T01:29:19.228Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T01:29:19.229Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T01:29:19.230Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T01:29:19.238Z - debug:  [22744] TFVC: spawned new process (duration: 7ms)
+2020-08-13T01:29:19.243Z - debug:  [22744] TFVC: spawned new process (duration: 4ms)
+2020-08-13T01:29:20.474Z - debug:  [22744] TFVC: add exit code: 0 (duration: 1244ms)
+2020-08-13T01:29:20.475Z - debug:  [22744] TFVC Minimum required version: 14.102.0
+2020-08-13T01:29:20.475Z - debug:  [22744] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-13T01:29:20.475Z - debug:  [22744] TFVC Repository.FindWorkspace with localPath='d:\reactjs\react-complete-guide'
+2020-08-13T01:29:20.475Z - debug:  [22744] TFVC: tf workfold -noprompt d:\reactjs\react-complete-guide
+2020-08-13T01:29:20.477Z - debug:  [22744] TFVC: spawned new process (duration: 2ms)
+2020-08-13T01:29:21.000Z - debug:  [22744] TFVC: workfold exit code: 100 (duration: 525ms)
+2020-08-13T01:29:21.001Z - debug:  [22744] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\react-complete-guide.
+
+2020-08-13T01:29:21.001Z - error:  [22744] Execution of the TFVC command line failed unexpectedly.
+2020-08-13T02:11:48.042Z - debug:  [22744] Reinitializing due to onDidChangeConfiguration
+2020-08-13T02:11:48.044Z - debug:  [22744] Polling interval value (minutes): 12
+2020-08-13T02:11:48.048Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T02:11:48.048Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T02:11:48.049Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T02:11:48.049Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T02:11:48.060Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T02:11:48.060Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T02:11:48.060Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T02:11:48.060Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T02:11:48.061Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T02:11:48.062Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T02:11:48.063Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T02:11:48.066Z - debug:  [22744] TFVC: spawned new process (duration: 2ms)
+2020-08-13T02:11:48.137Z - debug:  [22744] TFVC: add exit code: 0 (duration: 74ms)
+2020-08-13T02:11:48.138Z - debug:  [22744] TFVC Minimum required version: 14.102.0
+2020-08-13T02:11:48.138Z - debug:  [22744] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-13T02:11:48.138Z - debug:  [22744] TFVC Repository.FindWorkspace with localPath='d:\reactjs\react-complete-guide'
+2020-08-13T02:11:48.138Z - debug:  [22744] TFVC: tf workfold -noprompt d:\reactjs\react-complete-guide
+2020-08-13T02:11:48.141Z - debug:  [22744] TFVC: spawned new process (duration: 3ms)
+2020-08-13T02:11:48.492Z - debug:  [22744] TFVC: workfold exit code: 100 (duration: 354ms)
+2020-08-13T02:11:48.493Z - debug:  [22744] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\react-complete-guide.
+
+2020-08-13T02:11:48.493Z - error:  [22744] Execution of the TFVC command line failed unexpectedly.
+2020-08-13T07:38:10.012Z - debug:  [22744] Reinitializing due to onDidChangeConfiguration
+2020-08-13T07:38:10.015Z - debug:  [22744] Polling interval value (minutes): 12
+2020-08-13T07:38:10.019Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T07:38:10.019Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T07:38:10.020Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.020Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.033Z - debug:  [22744] Reinitializing due to onDidChangeConfiguration
+2020-08-13T07:38:10.034Z - debug:  [22744] Polling interval value (minutes): 12
+2020-08-13T07:38:10.036Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T07:38:10.036Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T07:38:10.036Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.036Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.041Z - debug:  [22744] Reinitializing due to onDidChangeConfiguration
+2020-08-13T07:38:10.042Z - debug:  [22744] Polling interval value (minutes): 12
+2020-08-13T07:38:10.043Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T07:38:10.043Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T07:38:10.043Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.043Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.051Z - debug:  [22744] Reinitializing due to onDidChangeConfiguration
+2020-08-13T07:38:10.051Z - debug:  [22744] Polling interval value (minutes): 12
+2020-08-13T07:38:10.052Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T07:38:10.053Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T07:38:10.053Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.053Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.057Z - debug:  [22744] Reinitializing due to onDidChangeConfiguration
+2020-08-13T07:38:10.057Z - debug:  [22744] Polling interval value (minutes): 12
+2020-08-13T07:38:10.059Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T07:38:10.060Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T07:38:10.060Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.060Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.064Z - debug:  [22744] Reinitializing due to onDidChangeConfiguration
+2020-08-13T07:38:10.064Z - debug:  [22744] Polling interval value (minutes): 12
+2020-08-13T07:38:10.065Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T07:38:10.065Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T07:38:10.066Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.066Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.069Z - debug:  [22744] Reinitializing due to onDidChangeConfiguration
+2020-08-13T07:38:10.069Z - debug:  [22744] Polling interval value (minutes): 12
+2020-08-13T07:38:10.070Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T07:38:10.071Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T07:38:10.071Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.071Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.077Z - debug:  [22744] Reinitializing due to onDidChangeConfiguration
+2020-08-13T07:38:10.077Z - debug:  [22744] Polling interval value (minutes): 12
+2020-08-13T07:38:10.079Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T07:38:10.080Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T07:38:10.080Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.080Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.096Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.096Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T07:38:10.096Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T07:38:10.096Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T07:38:10.097Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T07:38:10.097Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T07:38:10.098Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T07:38:10.098Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.098Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T07:38:10.098Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T07:38:10.098Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T07:38:10.099Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T07:38:10.099Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T07:38:10.099Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T07:38:10.099Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.099Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T07:38:10.099Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T07:38:10.099Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T07:38:10.099Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T07:38:10.100Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T07:38:10.100Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T07:38:10.100Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.100Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T07:38:10.101Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T07:38:10.101Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T07:38:10.101Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T07:38:10.101Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T07:38:10.101Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T07:38:10.101Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.101Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T07:38:10.102Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T07:38:10.102Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T07:38:10.102Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T07:38:10.102Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T07:38:10.102Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T07:38:10.102Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.102Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T07:38:10.102Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T07:38:10.102Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T07:38:10.102Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T07:38:10.103Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T07:38:10.103Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T07:38:10.103Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.103Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T07:38:10.103Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T07:38:10.103Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T07:38:10.103Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T07:38:10.104Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T07:38:10.104Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T07:38:10.104Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.104Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T07:38:10.104Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T07:38:10.104Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T07:38:10.104Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T07:38:10.105Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T07:38:10.105Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T07:38:10.137Z - debug:  [22744] TFVC: spawned new process (duration: 31ms)
+2020-08-13T07:38:10.137Z - debug:  [22744] TFVC: spawned new process (duration: 26ms)
+2020-08-13T07:38:10.137Z - debug:  [22744] TFVC: spawned new process (duration: 22ms)
+2020-08-13T07:38:10.137Z - debug:  [22744] TFVC: spawned new process (duration: 20ms)
+2020-08-13T07:38:10.137Z - debug:  [22744] TFVC: spawned new process (duration: 17ms)
+2020-08-13T07:38:10.137Z - debug:  [22744] TFVC: spawned new process (duration: 12ms)
+2020-08-13T07:38:10.138Z - debug:  [22744] TFVC: spawned new process (duration: 9ms)
+2020-08-13T07:38:10.138Z - debug:  [22744] TFVC: spawned new process (duration: 5ms)
+2020-08-13T07:38:10.139Z - error:  [22744] write after end
+2020-08-13T07:38:10.141Z - error:  [22744] write after end
+2020-08-13T07:38:10.142Z - error:  [22744] write after end
+2020-08-13T07:38:10.143Z - error:  [22744] write after end
+2020-08-13T07:38:10.143Z - error:  [22744] write after end
+2020-08-13T07:38:10.145Z - error:  [22744] write after end
+2020-08-13T07:38:10.146Z - error:  [22744] write after end
+2020-08-13T07:38:10.285Z - debug:  [22744] TFVC: add exit code: 0 (duration: 187ms)
+2020-08-13T07:38:10.286Z - debug:  [22744] TFVC Minimum required version: 14.102.0
+2020-08-13T07:38:10.286Z - debug:  [22744] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-13T07:38:10.287Z - debug:  [22744] TFVC Repository.FindWorkspace with localPath='d:\reactjs\react-complete-guide'
+2020-08-13T07:38:10.287Z - debug:  [22744] TFVC: tf workfold -noprompt d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.293Z - debug:  [22744] TFVC: spawned new process (duration: 5ms)
+2020-08-13T07:38:10.385Z - debug:  [22744] Reinitializing due to onDidChangeConfiguration
+2020-08-13T07:38:10.385Z - debug:  [22744] Polling interval value (minutes): 12
+2020-08-13T07:38:10.386Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T07:38:10.386Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T07:38:10.386Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.386Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.388Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T07:38:10.388Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T07:38:10.388Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T07:38:10.388Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T07:38:10.389Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T07:38:10.389Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T07:38:10.389Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T07:38:10.396Z - debug:  [22744] TFVC: spawned new process (duration: 7ms)
+2020-08-13T07:38:11.724Z - debug:  [22744] TFVC: workfold exit code: 100 (duration: 1437ms)
+2020-08-13T07:38:11.725Z - debug:  [22744] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\react-complete-guide.
+
+2020-08-13T07:38:11.725Z - error:  [22744] Execution of the TFVC command line failed unexpectedly.
+2020-08-13T07:38:12.176Z - debug:  [22744] TFVC: add exit code: 0 (duration: 1787ms)
+2020-08-13T07:38:12.176Z - debug:  [22744] TFVC Minimum required version: 14.102.0
+2020-08-13T07:38:12.176Z - debug:  [22744] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-13T07:38:12.177Z - debug:  [22744] TFVC Repository.FindWorkspace with localPath='d:\reactjs\react-complete-guide'
+2020-08-13T07:38:12.178Z - debug:  [22744] TFVC: tf workfold -noprompt d:\reactjs\react-complete-guide
+2020-08-13T07:38:12.180Z - debug:  [22744] TFVC: spawned new process (duration: 2ms)
+2020-08-13T07:38:12.376Z - debug:  [22744] TFVC: workfold exit code: 100 (duration: 197ms)
+2020-08-13T07:38:12.376Z - debug:  [22744] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\react-complete-guide.
+
+2020-08-13T07:38:12.376Z - error:  [22744] Execution of the TFVC command line failed unexpectedly.
+2020-08-13T07:40:40.210Z - debug:  [22744] Reinitializing due to onDidChangeConfiguration
+2020-08-13T07:40:40.211Z - debug:  [22744] Polling interval value (minutes): 12
+2020-08-13T07:40:40.212Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T07:40:40.212Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T07:40:40.212Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:40:40.212Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:40:40.216Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T07:40:40.216Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T07:40:40.216Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T07:40:40.216Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T07:40:40.217Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T07:40:40.218Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T07:40:40.218Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T07:40:40.221Z - debug:  [22744] TFVC: spawned new process (duration: 3ms)
+2020-08-13T07:40:40.285Z - debug:  [22744] TFVC: add exit code: 0 (duration: 67ms)
+2020-08-13T07:40:40.286Z - debug:  [22744] TFVC Minimum required version: 14.102.0
+2020-08-13T07:40:40.286Z - debug:  [22744] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-13T07:40:40.286Z - debug:  [22744] TFVC Repository.FindWorkspace with localPath='d:\reactjs\react-complete-guide'
+2020-08-13T07:40:40.286Z - debug:  [22744] TFVC: tf workfold -noprompt d:\reactjs\react-complete-guide
+2020-08-13T07:40:40.289Z - debug:  [22744] TFVC: spawned new process (duration: 2ms)
+2020-08-13T07:40:40.657Z - debug:  [22744] TFVC: workfold exit code: 100 (duration: 371ms)
+2020-08-13T07:40:40.658Z - debug:  [22744] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\react-complete-guide.
+
+2020-08-13T07:40:40.659Z - error:  [22744] Execution of the TFVC command line failed unexpectedly.
+2020-08-13T07:40:51.575Z - debug:  [22744] Reinitializing due to onDidChangeConfiguration
+2020-08-13T07:40:51.576Z - debug:  [22744] Polling interval value (minutes): 12
+2020-08-13T07:40:51.577Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T07:40:51.577Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T07:40:51.578Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:40:51.578Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:40:51.580Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T07:40:51.580Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T07:40:51.580Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T07:40:51.580Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T07:40:51.581Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T07:40:51.581Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T07:40:51.581Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T07:40:51.586Z - debug:  [22744] TFVC: spawned new process (duration: 5ms)
+2020-08-13T07:40:51.656Z - debug:  [22744] TFVC: add exit code: 0 (duration: 75ms)
+2020-08-13T07:40:51.657Z - debug:  [22744] TFVC Minimum required version: 14.102.0
+2020-08-13T07:40:51.657Z - debug:  [22744] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-13T07:40:51.657Z - debug:  [22744] TFVC Repository.FindWorkspace with localPath='d:\reactjs\react-complete-guide'
+2020-08-13T07:40:51.657Z - debug:  [22744] TFVC: tf workfold -noprompt d:\reactjs\react-complete-guide
+2020-08-13T07:40:51.659Z - debug:  [22744] TFVC: spawned new process (duration: 2ms)
+2020-08-13T07:40:51.992Z - debug:  [22744] TFVC: workfold exit code: 100 (duration: 335ms)
+2020-08-13T07:40:51.992Z - debug:  [22744] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\react-complete-guide.
+
+2020-08-13T07:40:51.992Z - error:  [22744] Execution of the TFVC command line failed unexpectedly.
+2020-08-13T07:41:44.065Z - debug:  [22744] Reinitializing due to onDidChangeConfiguration
+2020-08-13T07:41:44.065Z - debug:  [22744] Polling interval value (minutes): 12
+2020-08-13T07:41:44.068Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T07:41:44.068Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T07:41:44.068Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:41:44.068Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:41:44.070Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T07:41:44.070Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T07:41:44.070Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T07:41:44.070Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T07:41:44.071Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T07:41:44.073Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T07:41:44.073Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T07:41:44.076Z - debug:  [22744] TFVC: spawned new process (duration: 3ms)
+2020-08-13T07:41:44.145Z - debug:  [22744] TFVC: add exit code: 0 (duration: 72ms)
+2020-08-13T07:41:44.145Z - debug:  [22744] TFVC Minimum required version: 14.102.0
+2020-08-13T07:41:44.145Z - debug:  [22744] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-13T07:41:44.145Z - debug:  [22744] TFVC Repository.FindWorkspace with localPath='d:\reactjs\react-complete-guide'
+2020-08-13T07:41:44.146Z - debug:  [22744] TFVC: tf workfold -noprompt d:\reactjs\react-complete-guide
+2020-08-13T07:41:44.148Z - debug:  [22744] TFVC: spawned new process (duration: 2ms)
+2020-08-13T07:41:44.479Z - debug:  [22744] TFVC: workfold exit code: 100 (duration: 333ms)
+2020-08-13T07:41:44.480Z - debug:  [22744] TFVC errors (via stderr): There is no working folder mapping for d:\reactjs\react-complete-guide.
+
+2020-08-13T07:41:44.480Z - error:  [22744] Execution of the TFVC command line failed unexpectedly.
+2020-08-13T07:43:12.338Z - debug:  [22744] Reinitializing due to onDidChangeConfiguration
+2020-08-13T07:43:12.338Z - debug:  [22744] Polling interval value (minutes): 12
+2020-08-13T07:43:12.341Z - info:   [22744] *** FOLDER: d:\reactjs\react-complete-guide ***
+2020-08-13T07:43:12.341Z - info:   [22744] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.18362; Node 12.8.1)
+2020-08-13T07:43:12.341Z - debug:  [22744] Looking for an External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:43:12.341Z - debug:  [22744] No External Context at d:\reactjs\react-complete-guide
+2020-08-13T07:43:12.364Z - debug:  [22744] Looking for TFVC repository at d:\reactjs\react-complete-guide
+2020-08-13T07:43:12.364Z - debug:  [22744] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T07:43:12.365Z - debug:  [22744] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T07:43:12.365Z - debug:  [22744] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T07:43:12.366Z - debug:  [22744] TFVC Repository created with repositoryRootFolder='d:\reactjs\react-complete-guide'
+2020-08-13T07:43:12.366Z - debug:  [22744] TFVC Repository.CheckVersion
+2020-08-13T07:43:12.366Z - debug:  [22744] TFVC: tf add -noprompt -?
+2020-08-13T07:43:12.369Z - debug:  [22744] TFVC: spawned new process (duration: 3ms)
+2020-08-13T07:43:12.449Z - debug:  [22744] TFVC: add exit code: 0 (duration: 83ms)
+2020-08-13T07:43:12.449Z - debug:  [22744] TFVC Minimum required version: 14.102.0
+2020-08-13T07:43:12.449Z - debug:  [22744] TFVC (TF.exe, TF.cmd) version: 15.129.28621.1
+2020-08-13T07:43:12.449Z - debug:  [22744] TFVC Repository.FindWorkspace with localPath='d:\reactjs\react-complete-guide'
+2020-08-13T07:43:12.449Z - debug:  [22744] TFVC: tf workfold -noprompt d:\reactjs\react-complete-guide
+2020-08-13T07:43:12.452Z - debug:  [22744] TFVC: spawned new process (duration: 2ms)
